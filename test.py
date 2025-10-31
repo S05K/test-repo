@@ -1,4 +1,4 @@
-'''Recursion Code'''
+'''Recursion Code.......'''
 i=1
 def hello():
     global i
@@ -9,3 +9,6 @@ def hello():
     hello()
 
 hello()
+
+
+# this is a basic example of recusrion
